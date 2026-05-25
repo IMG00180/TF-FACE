@@ -144,7 +144,7 @@ If you find this repository useful, please cite our paper:
 ```bibtex
 @inproceedings{song2026tfface,
   title={{TF-FACE}: Time-Frequency Fusion Learning with Frequency-Domain Adaptive and Controllable Enhancement for Trajectory Prediction},
-  author={Song, Dongjian and Meng, Yunhao and Huang, Songjun and Han, Jiayi},
+   author={Anonymous},
   booktitle={International Conference on Machine Learning},
   year={2026}
 }
