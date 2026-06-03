@@ -1,4 +1,4 @@
-# TF-FACE
+# TF-FACE（The code will be released soon.）
 
 Official implementation of **TF-FACE: Time-Frequency Fusion Learning with Frequency-Domain Adaptive and Controllable Enhancement for Trajectory Prediction**.
 
